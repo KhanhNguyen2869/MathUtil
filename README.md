@@ -13,4 +13,4 @@ as a part of Introduction to Software Engineering course at FPT University, HCMC
 2. [GitHub](https://github.com/KhanhNguyen2869)
 3. [Email](congkhanhnguyen1999@gmail.com)
 
-#### @2020 by Khanh Nguyen | FPT University HCMC
+###### @2020 by Khanh Nguyen | FPT University HCMC
